@@ -1,0 +1,14 @@
+C:\Users\Jakob\source\repos\ContactList\ContactList\bin\Debug\netcoreapp2.2\ContactList.deps.json
+C:\Users\Jakob\source\repos\ContactList\ContactList\bin\Debug\netcoreapp2.2\ContactList.runtimeconfig.json
+C:\Users\Jakob\source\repos\ContactList\ContactList\bin\Debug\netcoreapp2.2\ContactList.runtimeconfig.dev.json
+C:\Users\Jakob\source\repos\ContactList\ContactList\bin\Debug\netcoreapp2.2\ContactList.dll
+C:\Users\Jakob\source\repos\ContactList\ContactList\bin\Debug\netcoreapp2.2\ContactList.pdb
+C:\Users\Jakob\source\repos\ContactList\ContactList\obj\Debug\netcoreapp2.2\ContactList.csprojAssemblyReference.cache
+C:\Users\Jakob\source\repos\ContactList\ContactList\obj\Debug\netcoreapp2.2\ContactList.csproj.CoreCompileInputs.cache
+C:\Users\Jakob\source\repos\ContactList\ContactList\obj\Debug\netcoreapp2.2\ContactList.RazorAssemblyInfo.cache
+C:\Users\Jakob\source\repos\ContactList\ContactList\obj\Debug\netcoreapp2.2\ContactList.RazorAssemblyInfo.cs
+C:\Users\Jakob\source\repos\ContactList\ContactList\obj\Debug\netcoreapp2.2\ContactList.AssemblyInfoInputs.cache
+C:\Users\Jakob\source\repos\ContactList\ContactList\obj\Debug\netcoreapp2.2\ContactList.AssemblyInfo.cs
+C:\Users\Jakob\source\repos\ContactList\ContactList\obj\Debug\netcoreapp2.2\ContactList.RazorTargetAssemblyInfo.cache
+C:\Users\Jakob\source\repos\ContactList\ContactList\obj\Debug\netcoreapp2.2\ContactList.dll
+C:\Users\Jakob\source\repos\ContactList\ContactList\obj\Debug\netcoreapp2.2\ContactList.pdb
